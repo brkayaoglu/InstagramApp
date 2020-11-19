@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds">
+        <attr name="backgroundColorCreated" format="color"></attr>
+        <attr name="appBarbackgroundColorCreated" format="color"></attr>
+        <attr name="textColorCreated" format="color"></attr>
+        <attr name="buttonColorCreated" format="color"></attr>
+    </declare-styleable>
+</resources>

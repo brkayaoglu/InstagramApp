@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#fffffb"
+    android:background="?attr/backgroundColorCreated"
     tools:context=".Fragments.HomeFragment">
 
     <!-- TODO: Update blank fragment layout -->
@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:id="@+id/toolbar_home"
-            android:background="@android:color/white">
+            android:background="?attr/appBarbackgroundColorCreated">
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
